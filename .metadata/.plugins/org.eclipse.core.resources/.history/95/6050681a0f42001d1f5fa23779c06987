@@ -2,7 +2,10 @@ package projectGit;
 
 public class a {
 	int a;
-
+<<<<<<< HEAD
+	char suadoiboimaster;
+=======
 	char suaboibeta;
 
+>>>>>>> 003a0c0 (B1)
 }
