@@ -1,0 +1,6 @@
+package projectGit;
+
+public class b {
+	int a;
+
+}
